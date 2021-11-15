@@ -1,3 +1,4 @@
+![Hello!](https://github.com/TheCodby/TheCodby/blob/main/Hello.gif?raw=true)
 - 👋 Hi, I’m @TheCodby
 - 👀 I’m interested in programming, networking and data analysis
 - 🌱 I’m currently learning algorithms
