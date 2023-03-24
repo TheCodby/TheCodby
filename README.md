@@ -4,6 +4,7 @@ As a full-stack web developer, I possess extensive experience working with vario
 For mobile development, I specialize in using React Native to create cross-platform applications that run seamlessly on both iOS and Android. I also have solid knowledge of DevOps processes and Linux bash and terminal.
 
 Technologies that I use:
+
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
