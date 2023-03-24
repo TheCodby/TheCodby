@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @TheCodby
-- 👀 I’m interested in programming, networking and data analysis
-- 🌱 I’m currently learning algorithms
+👋 Hi, I'm @TheCodby. I build things and am currently learning algorithms and machine learning.
+As a full-stack web developer, I possess extensive experience working with various tools, libraries, and frameworks. My expertise lies in using Next.js and Laravel (PHP) for building web applications and working with relational databases such as MySQL and non-relational databases like MongoDB. I leverage Prisma to generate my schema and ensure type safety.
+
+For mobile development, I specialize in using React Native to create cross-platform applications that run seamlessly on both iOS and Android. I also have solid knowledge of DevOps processes and Linux bash and terminal.
 
 Technologies that I use:
-
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
