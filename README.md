@@ -1,5 +1,5 @@
 👋 Hi, I'm @TheCodby. I build things and am currently learning algorithms and machine learning.
-As a full-stack web developer, I possess extensive experience working with various tools, libraries, and frameworks. My expertise lies in using Next.js and Laravel (PHP) for building web applications and working with relational databases such as MySQL and non-relational databases like MongoDB. I leverage Prisma to generate my schema and ensure type safety.
+As a full-stack web developer, I possess extensive experience working with various tools, libraries, and frameworks. My expertise lies in using Rust, Node.js, Next.js and Nest.js for building web applications and working with relational databases such as MySQL and non-relational databases like MongoDB. I leverage Prisma to generate my schema and ensure type safety.
 
 For mobile development, I specialize in using React Native to create cross-platform applications that run seamlessly on both iOS and Android. I also have solid knowledge of DevOps processes and Linux bash and terminal.
 
